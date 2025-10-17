@@ -12,10 +12,10 @@ My proof of completion for the "Personality Assessment" short course, including 
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/99471a9d-4354-4841-91d0-966531d3a29e" />
 
 ### Reflection: <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0a7d2c8b-6444-43b3-8d4a-be93c09e3d55" /> technique
-**Situation**: All 3rd year CPUT IT students were tasked with completing the Personality Assessment course, as part of the Project Presentation 3 module.
+**Situation:** All 3rd year CPUT IT students were tasked with completing the Personality Assessment course, as part of the Project Presentation 3 module.
 
-**Task**: My goal was to go through the course content and complete the related assesments by or before the due date.
+**Task:** My goal was to go through the course content and complete the related assesments by or before the due date.
 
-**Action**: I took the time to go through the course content, and completed the related assesments in time.
+**Action:** I took the time to go through the course content, and completed the related assesments in time.
 
-**Result**: Initially I was a bit confused when it came to understanding and matching the correct personality types and careers. I learnt that my assumptions are not always right, and to thoroughly go through and grasp the content given.
+**Result:** Initially I was a bit confused when it came to understanding and matching the correct personality types and careers. I learnt that my assumptions are not always right, and to thoroughly go through and grasp the content given.
