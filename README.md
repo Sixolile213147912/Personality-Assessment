@@ -1,10 +1,10 @@
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/af0df071-e091-4c9e-b3f4-33cfa3004a33" /> Personality Assessment
 My proof of completion for the "Personality Assessment" short course, including test scores and my STAR method comment on the material, is contained in this repository.
 
-## The PERSONALITY ASSESSMENT Course covered topics which fall under the breakdown below.
+## The PERSONALITY ASSESSMENT course covered topics which fall under the breakdown below.
 - **Self-Discovery:** Assists you in comprehending your fundamental values, interests, and strengths and flaws. 
 - **Career Path Identification:** Points out viable career routes and presents you with a range of possibilities you might not have thought of, they can help you go forward with your professional development. 
-- **Workplace Analysis**: Assist you in identifying the kind of work environment that you would flourish in, whether it is more autonomous or people-oriented. 
+- **Workplace Analysis:** Assist you in identifying the kind of work environment that you would flourish in, whether it is more autonomous or people-oriented. 
 - **Skill development:** Here you learn to choose which of your skills to emphasize in a job hunt and possibly identify areas for growth.
 - **Interview Preparation:** Understanding your personality type will help you be ready to talk about it with prospective employers throughout the interview process. 
 
